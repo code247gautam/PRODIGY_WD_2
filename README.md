@@ -1,6 +1,10 @@
 STOPWATCH
+
+
 in this repository i have created a simple stop watch with modern ui changes using css and
 this project is created using html css and javascript 
+
+
       Which have four following features
 
       1) Start :-It will start the timer.
